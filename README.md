@@ -5,6 +5,6 @@ REQUIRES
 -----------------
 None
 
-HOW TO USE
+How to play
 -----------------
 Open **index.html** in a browser or try it out on [my website](https://www.briangood.dev/)
